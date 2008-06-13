@@ -2,7 +2,7 @@ h1. Active Scaffold Sortable Demo
 
 A small demo application to show off active scaffold sortable.
 
-I (Andrew Roth) also added the active scaffold subform functionality.
+I (Andrew Roth) added the active scaffold subform functionality.
 
 h2. To install and run:
 
@@ -13,4 +13,10 @@ git submodule init
 git submodule update
 rake db:migrate
 script/server
+</pre>
+
+and browse to
+
+<pre>
+http://localhost:3000/tasks
 </pre>
