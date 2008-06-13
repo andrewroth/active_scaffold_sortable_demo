@@ -4,6 +4,6 @@
 [submodule "vendor/plugins/active_scaffold_sortable"]
 	path = vendor/plugins/active_scaffold_sortable
 	url = git://github.com/activescaffold/active_scaffold_sortable.git
-[submodule "vendor/plugins/active_scaffold_sortable_subform"]
-	path = vendor/plugins/active_scaffold_sortable_subform
-	url = git://github.com/activescaffold/active_scaffold_sortable_subform.git
+[submodule "vendor/plugins/active_scaffold_sortable_subforms"]
+	path = vendor/plugins/active_scaffold_sortable_subforms
+	url = git://github.com/activescaffold/active_scaffold_sortable_subforms.git
