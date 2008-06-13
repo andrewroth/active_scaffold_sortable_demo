@@ -7,7 +7,7 @@ I (Andrew Roth) also added the active scaffold subform functionality.
 h2. To install and run:
 
 <pre>
-git clone git://github.com/activescaffold/active_scaffold_sortable_demo.git
+git clone git://github.com/andrewroth/active_scaffold_sortable_demo.git
 cd active_scaffold_sortable_demo
 git submodule init
 git submodule update
