@@ -2,6 +2,8 @@ h1. Active Scaffold Sortable Demo
 
 A small demo application to show off active scaffold sortable.
 
+Uses rails 2.3.14.
+
 I (Andrew Roth) added the active scaffold subform functionality.
 
 h2. To install and run:
