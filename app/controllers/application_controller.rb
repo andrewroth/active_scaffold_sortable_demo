@@ -3,8 +3,8 @@
 
 class ApplicationController < ActionController::Base
   helper :all # include all helpers, all the time
+  protect_from_forgery # See ActionController::RequestForgeryProtection for details
 
-  # See ActionController::RequestForgeryProtection for details
-  # Uncomment the :secret if you're not using the cookie session store
-  protect_from_forgery # :secret => 'c3e7f803aa142c929cbde0c30c0620e2'
+  # Scrub sensitive parameters from your log
+  # filter_parameter_logging :password
 end
